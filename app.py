@@ -14,7 +14,7 @@ list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.
 sourceurl = 'https://xkcd.com/'
 githublink = 'https://github.com/plotly-dash-apps/203-radio-callbacks'
 
-
+# Random test code line, delete after git push test
 ########## Set up the chart
 
 ########### Initiate the app
