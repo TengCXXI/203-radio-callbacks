@@ -7,11 +7,11 @@ import plotly.graph_objs as go
 
 ########### Define your variables ######
 
-myheading1='Never Gonna Give You Up'
-tabtitle = 'NGGYU'
-list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot']
-list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'rick_roll.gif']
-sourceurl = 'https://tenor.com/view/rick-astley-never-gonna-give-you-up-rickroll-dance-moves-dancing-guy-gif-20856902'
+myheading1='Never Gonna'
+tabtitle = 'RR'
+list_of_options=['Give You Up', 'Let You Down', 'Run Around', 'Desert You']
+list_of_images=['up.jpg', 'let_you_down.gif', 'run_around.gif', 'desert.gif', 'rick_roll.gif']
+sourceurl = 'https://tenor.com/'
 githublink = 'https://github.com/TengCXXI/203-radio-callbacks'
 
 ########## Set up the chart
