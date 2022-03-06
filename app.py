@@ -7,7 +7,7 @@ import plotly.graph_objs as go
 
 ########### Define your variables ######
 
-myheading1='Never Gonna to Give You Up'
+myheading1='Never Gonna Give You Up'
 tabtitle = 'NGGYU'
 list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot']
 list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'rick_roll.gif']
